@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Sergey and I'm a fullstack-developer
+## My name is Sergey and I'm a fullstack developer
 
 I have over 1 year of development experience (backend and frontend).
 
