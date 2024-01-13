@@ -2,9 +2,9 @@
 
 ## My name is Sergey and I'm a fullstack developer
 
-I have over 1 year of development experience (backend and frontend).
+I have 2 years of development experience (backend and frontend).
 
-## Technologies which I use:
+## Some technologies which I use:
 
 ### Backend Technologies
 
